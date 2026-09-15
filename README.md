@@ -14,9 +14,8 @@ Análise exploratória de dados públicos do Itaú Unibanco, com foco na evoluç
 ## Tecnologias
 
 - Python
-- Pandas
 - NumPy
-- Matplotlib
+- R
 
 ## Fonte dos dados
 
