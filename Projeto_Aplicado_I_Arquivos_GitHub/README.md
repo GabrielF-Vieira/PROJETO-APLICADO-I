@@ -34,3 +34,9 @@ pip install pandas openpyxl matplotlib jupyter
 
 ## Nota metodológica
 O indicador de crédito utilizado é o item identificado na planilha como “Total de Operações de Crédito com Garantias Financeiras Prestadas e Títulos Privados”. Não se deve tratá-lo automaticamente como medida de toda a carteira de crédito. A correlação indica associação, não causalidade. A planilha também informa alterações de classificação/composição dos dados ao longo da série.
+
+## Principais resultados
+
+No período analisado, de 1T24 a 2T26, o indicador selecionado de operações de crédito aumentou aproximadamente 24,55%. No mesmo intervalo, a inadimplência de 90 dias caiu de 2,70% para aproximadamente 1,95%, uma redução de 0,75 ponto percentual.
+
+A correlação de Pearson entre as duas séries foi de aproximadamente -0,847, indicando uma associação linear negativa forte na amostra analisada. Entretanto, esse resultado não permite concluir que o aumento das operações de crédito causou a redução da inadimplência.
